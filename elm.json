@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "miyamoen/elm-route-builder",
-    "summary": "あとで説明書く",
+    "summary": "elm-route-builder let us define both URL builder and parser at once.",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
     "exposed-modules": [ "RouteBuilder" ],
